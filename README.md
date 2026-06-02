@@ -4,12 +4,16 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/carlos-enmanuel-flores/" target="_blank" rel="noopener noreferrer">Enma</a>.</h2>
 
+<p align="left">
+  <a href="https://portfolio-dev-nine-omega.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&color=39d353" alt="Portfolio" />
+  </a>
+</p>
+
 - I am a **Systems Engineering undergrad** specializing as a **Backend Developer**.
 - **Core Focus:** Architecting scalable server-side logic, designing clean APIs, and managing databases with **Node.js, Express, and Laravel**.
 - **2026's Objective:** Elevate my backend architecture skills with **NestJS/TypeScript** and transition into a remote development role.
 - Beyond the server, I enjoy tinkering with **Linux (Ubuntu) environments** and bridging software with the physical world through **AI and IoT integrations**.
-
-<br />
 
 ### Languages and Tools 
 <p>
