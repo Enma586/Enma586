@@ -2,7 +2,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" width="600">
 </div>
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/carlos-enmanuel-flores/" target="_blank" rel="noopener noreferrer">Enma</a>.</h2>
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/carlos-enmanuel-flores/" target="_blank" rel="noopener noreferrer">Carlos</a>.</h2>
 
 <p align="left">
   <a href="https://portfolio-dev-nine-omega.vercel.app/" target="_blank">
